@@ -1,4 +1,4 @@
-# ICS321 Project: SOCCER@KFUPM
+# SOCCER@KFUPM
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -7,8 +7,6 @@
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-<!-- - [Known Issues](#known-issues)
-- [Future Enhancements](#future-enhancements) -->
 - [Contributors](#contributors)
 
 ---
