@@ -139,10 +139,12 @@ Follow these steps to set up the project locally:
 --- -->
 
 ## Contributors
-- **Almaan Khan**: Frontend Developer,
-                   Backend Developer (partial contribution)
+- **Almaan Khan**:
+  > Frontend Developer,
+  > Backend Developer (partially contributed)
   
-- **Husain Althagafi**: Backend Developer
+- **Husain Althagafi**:
+  > Backend Developer
 
 ---
 
